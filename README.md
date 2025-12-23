@@ -1,2 +1,2 @@
 # Calculator-Website
-HTML &amp; CSS ONLY
+HTML CSS & JavaScript project
